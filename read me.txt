@@ -1,0 +1,9 @@
+To Create classes just type make into terminal in correct directory
+
+To Run PowerBSTApp type make run or make runBST into terminal in correct directory
+
+To Run PowerAVLApp type make runAVL into terminal in correct directory
+
+(csv file must be in this directory)
+
+
